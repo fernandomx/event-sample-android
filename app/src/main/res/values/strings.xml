@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">OAuth2 Integration Web</string>
+    <string name="app_name">Sicredi Eventos</string>
+    <string name="title_checkin">Check-in</string>
 </resources>

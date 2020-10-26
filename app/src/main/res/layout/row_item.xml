@@ -7,10 +7,9 @@
     android:padding="2dp">
 
     <ImageView
-        android:id="@+id/missionPhoto"
+        android:id="@+id/eventPhoto"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:background="@drawable/ic_mission_mine"
         android:scaleType="centerCrop" />
 
     <LinearLayout
@@ -20,26 +19,34 @@
 
 
         <TextView
-            android:id="@+id/missionName"
+            android:id="@+id/eventTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Large Text"
+            android:layout_marginStart="8dp"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TextView
-            android:id="@+id/missionStart"
+            android:id="@+id/eventDate"
+            android:layout_marginStart="8dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Medium Text"
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
         <TextView
-            android:id="@+id/missionStatus"
+            android:id="@+id/eventPrice"
+            android:layout_marginStart="8dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Medium Text"
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
+        <!--
+        <TextView
+            android:id="@+id/forksCount"
+            android:layout_marginStart="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        -->
 
     </LinearLayout>
 </LinearLayout>
