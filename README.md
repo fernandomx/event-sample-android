@@ -16,7 +16,7 @@ git clone https://github.com/fernandomx/event-sample-android.git
     Consome uma REST API e exiba uma listagem de eventos;
     Permite acesso à detalhes do evento;
     
-# Arquietura
+# Arquitetura
 
 - MVP
 
