@@ -36,7 +36,7 @@
                 android:id="@+id/eventDetailTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Medium Text"
+                android:text="MEDIUM TEXT"
                 android:textAlignment="center"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
         </LinearLayout>

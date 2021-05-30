@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OAuth2.iml" filepath="$PROJECT_DIR$/OAuth2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OAuth2Retrofit2Android.iml" filepath="$PROJECT_DIR$/.idea/modules/OAuth2Retrofit2Android.iml" group="OAuth2Retrofit2Android" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OAuth2Retrofit2Android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OAuth2Retrofit2Android-app.iml" group="OAuth2Retrofit2Android/app" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/event-sample-android.iml" filepath="$PROJECT_DIR$/.idea/modules/event-sample-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/event-sample-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/event-sample-android.app.iml" />
     </modules>
   </component>
 </project>
